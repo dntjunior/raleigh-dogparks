@@ -3,7 +3,7 @@ const request = require('request');
 const cloudinary = require('cloudinary');
 const CLOUDINARY_NAME1 = 'docrcodmr';
 const CLOUDINARY_KEY1 = '696249698493995';
-const CLOUDINARY_SECRET1 = '7bChKulxDSPFbLgqSxIsSv3GcewNew';
+const CLOUDINARY_SECRET1 = '7bChy4VsxuNidD5i45nHPyclMda9ZGIKulxDSPFbLgqSxIsSv3GcewNew';
 const router = express.Router();
 
 cloudinary.config({ 
